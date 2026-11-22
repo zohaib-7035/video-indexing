@@ -1,0 +1,7 @@
+*.pt
+*.parquet
+finevideo/
+results_parts/
+__pycache__/
+*.jsonl
+!results.jsonl.gz
